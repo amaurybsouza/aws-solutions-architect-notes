@@ -1,4 +1,4 @@
-## s3 evento notification
+## s3 event notification
 - s3:objectCreated, s3:ObjectRemoved, s3:Object:Restore
 - object name filreting possible (.jpg)
 - use case generate thumbnails of imagens uploaded to s3. ⏬
