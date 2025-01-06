@@ -7,3 +7,9 @@
 - los cost and auto-scaling
 - no maintenance or paching
 - standard & infrequent acess
+
+## DynamoDB - Basics
+- dynamodb is mande of tables
+- each table has a primary key
+- each item has attributes
+- maximum size of an item is 400KB
